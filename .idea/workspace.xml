@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a832d434-ded1-4f7c-8856-dafcfb99aeed" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" executionDataType="PHAR" phpInterpreterId="6bd39dcc-e5a3-4b38-afe0-d8532db40e3a" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$USER_HOME$/work/yms/composer.json</pharConfigPath>
+    <pharPath>$USER_HOME$/work/composer/composer.phar</pharPath>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Restful.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/v1/Restful.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2850">
+              <caret line="150" column="0" lean-forward="true" selection-start-line="150" selection-start-column="0" selection-end-line="150" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/v1/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Core.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/Core.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="551">
+              <caret line="34" column="13" lean-forward="true" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/v1/Restful.php" />
+        <option value="$PROJECT_DIR$/core/Core.php" />
+        <option value="$PROJECT_DIR$/v1/index.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 7">
+    <include_path>
+      <path value="$USER_HOME$/work/yms/vendor/myclabs/deep-copy" />
+      <path value="$USER_HOME$/work/yms/vendor/behat/gherkin" />
+      <path value="$USER_HOME$/work/yms/vendor/setasign/fpdi" />
+      <path value="$USER_HOME$/work/yms/vendor/mdmsoft/yii2-admin" />
+      <path value="$USER_HOME$/work/yms/vendor/phpunit/php-timer" />
+      <path value="$USER_HOME$/work/yms/vendor/phpunit/php-file-iterator" />
+      <path value="$USER_HOME$/work/yms/vendor/phpunit/php-text-template" />
+      <path value="$USER_HOME$/work/yms/vendor/sebastian/global-state" />
+      <path value="$USER_HOME$/work/yms/vendor/phpunit/php-token-stream" />
+      <path value="$USER_HOME$/work/yms/vendor/sebastian/comparator" />
+      <path value="$USER_HOME$/work/yms/vendor/phpunit/phpunit-mock-objects" />
+      <path value="$USER_HOME$/work/yms/vendor/rmrevin/yii2-fontawesome" />
+      <path value="$USER_HOME$/work/yms/vendor/sebastian/environment" />
+      <path value="$USER_HOME$/work/yms/vendor/phpunit/php-code-coverage" />
+      <path value="$USER_HOME$/work/yms/vendor/sebastian/exporter" />
+      <path value="$USER_HOME$/work/yms/vendor/sebastian/recursion-context" />
+      <path value="$USER_HOME$/work/yms/vendor/sebastian/object-enumerator" />
+      <path value="$USER_HOME$/work/yms/vendor/sebastian/resource-operations" />
+      <path value="$USER_HOME$/work/yms/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$USER_HOME$/work/yms/vendor/sebastian/diff" />
+      <path value="$USER_HOME$/work/yms/vendor/sebastian/version" />
+      <path value="$USER_HOME$/work/yms/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$USER_HOME$/work/yms/vendor/phpdocumentor/type-resolver" />
+      <path value="$USER_HOME$/work/yms/vendor/phpspec/php-diff" />
+      <path value="$USER_HOME$/work/yms/vendor/phpdocumentor/reflection-common" />
+      <path value="$USER_HOME$/work/yms/vendor/phpspec/prophecy" />
+      <path value="$USER_HOME$/work/yms/vendor/stecman/symfony-console-completion" />
+      <path value="$USER_HOME$/work/yms/vendor/yiisoft/yii2-bootstrap" />
+      <path value="$USER_HOME$/work/yms/vendor/almasaeed2010/adminlte" />
+      <path value="$USER_HOME$/work/yms/vendor/yiisoft/yii2-faker" />
+      <path value="$USER_HOME$/work/yms/vendor/yiisoft/yii2-debug" />
+      <path value="$USER_HOME$/work/yms/vendor/yiisoft/yii2-composer" />
+      <path value="$USER_HOME$/work/yms/vendor/kartik-v/yii2-dialog" />
+      <path value="$USER_HOME$/work/yms/vendor/yiisoft/yii2-gii" />
+      <path value="$USER_HOME$/work/yms/vendor/yiisoft/yii2-redis" />
+      <path value="$USER_HOME$/work/yms/vendor/yiisoft/yii2-swiftmailer" />
+      <path value="$USER_HOME$/work/yms/vendor/bower-asset/typeahead.js" />
+      <path value="$USER_HOME$/work/yms/vendor/bower-asset/jquery" />
+      <path value="$USER_HOME$/work/yms/vendor/bower-asset/bootstrap" />
+      <path value="$USER_HOME$/work/yms/vendor/bower-asset/yii2-pjax" />
+      <path value="$USER_HOME$/work/yms/vendor/bower-asset/bootstrap3-dialog" />
+      <path value="$USER_HOME$/work/yms/vendor/bower-asset/jquery.inputmask" />
+      <path value="$USER_HOME$/work/yms/vendor/guzzlehttp/psr7" />
+      <path value="$USER_HOME$/work/yms/vendor/bower-asset/punycode" />
+      <path value="$USER_HOME$/work/yms/vendor/fxp/composer-asset-plugin" />
+      <path value="$USER_HOME$/work/yms/vendor/doctrine/instantiator" />
+      <path value="$USER_HOME$/work/yms/vendor/dmstr/yii2-adminlte-asset" />
+      <path value="$USER_HOME$/work/yms/vendor/symfony/console" />
+      <path value="$USER_HOME$/work/yms/vendor/symfony/event-dispatcher" />
+      <path value="$USER_HOME$/work/yms/vendor/symfony/css-selector" />
+      <path value="$USER_HOME$/work/yms/vendor/symfony/debug" />
+      <path value="$USER_HOME$/work/yms/vendor/symfony/polyfill-mbstring" />
+      <path value="$USER_HOME$/work/yms/vendor/yiidoc/yii2-redactor" />
+      <path value="$USER_HOME$/work/yms/vendor/symfony/browser-kit" />
+      <path value="$USER_HOME$/work/yms/vendor/symfony/dom-crawler" />
+      <path value="$USER_HOME$/work/yms/vendor/symfony/finder" />
+      <path value="$USER_HOME$/work/yms/vendor/symfony/yaml" />
+      <path value="$USER_HOME$/work/yms/vendor/codeception/verify" />
+      <path value="$USER_HOME$/work/yms/vendor/ezyang/htmlpurifier" />
+      <path value="$USER_HOME$/work/yms/vendor/kartik-v/yii2-editable" />
+      <path value="$USER_HOME$/work/yms/vendor/kartik-v/yii2-widget-depdrop" />
+      <path value="$USER_HOME$/work/yms/vendor/kartik-v/yii2-widget-switchinput" />
+      <path value="$USER_HOME$/work/yms/vendor/kartik-v/yii2-grid" />
+      <path value="$USER_HOME$/work/yms/vendor/kartik-v/yii2-widget-sidenav" />
+      <path value="$USER_HOME$/work/yms/vendor/kartik-v/yii2-sortable" />
+      <path value="$USER_HOME$/work/yms/vendor/kartik-v/yii2-widget-spinner" />
+      <path value="$USER_HOME$/work/yms/vendor/kartik-v/bootstrap-fileinput" />
+      <path value="$USER_HOME$/work/yms/vendor/kartik-v/yii2-widget-select2" />
+      <path value="$USER_HOME$/work/yms/vendor/kartik-v/yii2-widget-affix" />
+      <path value="$USER_HOME$/work/yms/vendor/kartik-v/dependent-dropdown" />
+      <path value="$USER_HOME$/work/yms/vendor/kartik-v/yii2-mpdf" />
+      <path value="$USER_HOME$/work/yms/vendor/kartik-v/yii2-dynagrid" />
+      <path value="$USER_HOME$/work/yms/vendor/kartik-v/yii2-widget-colorinput" />
+      <path value="$USER_HOME$/work/yms/vendor/kartik-v/yii2-popover-x" />
+      <path value="$USER_HOME$/work/yms/vendor/composer" />
+      <path value="$USER_HOME$/work/yms/vendor/kartik-v/yii2-widget-fileinput" />
+      <path value="$USER_HOME$/work/yms/vendor/kartik-v/yii2-widget-growl" />
+      <path value="$USER_HOME$/work/yms/vendor/kartik-v/yii2-widget-touchspin" />
+      <path value="$USER_HOME$/work/yms/vendor/mpdf/mpdf" />
+      <path value="$USER_HOME$/work/yms/vendor/kartik-v/yii2-widgets" />
+      <path value="$USER_HOME$/work/yms/vendor/kartik-v/yii2-widget-activeform" />
+      <path value="$USER_HOME$/work/yms/vendor/kartik-v/yii2-widget-alert" />
+      <path value="$USER_HOME$/work/yms/vendor/swiftmailer/swiftmailer" />
+      <path value="$USER_HOME$/work/yms/vendor/kartik-v/yii2-widget-typeahead" />
+      <path value="$USER_HOME$/work/yms/vendor/kartik-v/yii2-widget-timepicker" />
+      <path value="$USER_HOME$/work/yms/vendor/kartik-v/yii2-widget-datetimepicker" />
+      <path value="$USER_HOME$/work/yms/vendor/kartik-v/bootstrap-star-rating" />
+      <path value="$USER_HOME$/work/yms/vendor/kartik-v/yii2-widget-rating" />
+      <path value="$USER_HOME$/work/yms/vendor/kartik-v/yii2-widget-rangeinput" />
+      <path value="$USER_HOME$/work/yms/vendor/kartik-v/yii2-krajee-base" />
+      <path value="$USER_HOME$/work/yms/vendor/kartik-v/yii2-widget-datepicker" />
+      <path value="$USER_HOME$/work/yms/vendor/kartik-v/bootstrap-popover-x" />
+      <path value="$USER_HOME$/work/yms/vendor/bower/typeahead.js" />
+      <path value="$USER_HOME$/work/yms/vendor/bower/punycode" />
+      <path value="$USER_HOME$/work/yms/vendor/bower/yii2-pjax" />
+      <path value="$USER_HOME$/work/yms/vendor/bower/jquery.inputmask" />
+      <path value="$USER_HOME$/work/yms/vendor/bower/bootstrap" />
+      <path value="$USER_HOME$/work/yms/vendor/bower/jquery" />
+      <path value="$USER_HOME$/work/yms/vendor/yiisoft/yii2" />
+      <path value="$USER_HOME$/work/yms/vendor/phpunit/phpunit" />
+      <path value="$USER_HOME$/work/yms/vendor/codeception/base" />
+      <path value="$USER_HOME$/work/yms/vendor/cebe/markdown" />
+      <path value="$USER_HOME$/work/yms/vendor/psr/http-message" />
+      <path value="$USER_HOME$/work/yms/vendor/psr/log" />
+      <path value="$USER_HOME$/work/yms/vendor/deesoft/yii2-angular" />
+      <path value="$USER_HOME$/work/yms/vendor/webmozart/assert" />
+      <path value="$USER_HOME$/work/yms/vendor/fortawesome/font-awesome" />
+      <path value="$USER_HOME$/work/yms/vendor/fzaninotto/faker" />
+      <path value="$USER_HOME$/work/yms/vendor/cebe/yii2-gravatar" />
+    </include_path>
+  </component>
+  <component name="PhpXdebugProxy" ide_key="phpstrom" host="localhost" port="8080" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="796" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Data flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Error handlingJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript validity issuesJavaScript</id>
+          </State>
+          <State>
+            <id>SQL</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="root" type="b2602c69:ProjectViewProjectNode" />
+              <item name="root" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration" myUseAcceleration="nothing" cleanupOnStartRun="true">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a832d434-ded1-4f7c-8856-dafcfb99aeed" name="Default" comment="" />
+      <created>1517315472571</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1517315472571</updated>
+      <workItem from="1517315473884" duration="867000" />
+    </task>
+    <task id="LOCAL-00001" summary="框架搭建">
+      <created>1517316292036</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1517316292036</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="867000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="796" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890856" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32890856" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="框架搭建" />
+    <option name="LAST_COMMIT_MESSAGE" value="框架搭建" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/v1/Restful.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2850">
+          <caret line="150" column="0" lean-forward="true" selection-start-line="150" selection-start-column="0" selection-end-line="150" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/Core.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="34" column="13" lean-forward="true" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v1/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
